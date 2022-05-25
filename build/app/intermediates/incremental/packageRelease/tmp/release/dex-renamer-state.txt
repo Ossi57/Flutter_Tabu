@@ -1,4 +1,4 @@
-#Wed May 25 13:51:16 UTC 2022
+#Wed May 25 14:21:40 UTC 2022
 base.0=/root/homework2/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

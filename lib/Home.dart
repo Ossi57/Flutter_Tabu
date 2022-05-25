@@ -24,6 +24,7 @@ class _Home extends State<Home>{
         style: RoundedProgressBarStyle(borderWidth: 0, widthShadow: 0),
         margin: EdgeInsets.symmetric(vertical: 16),
         borderRadius: BorderRadius.circular(24),
+        reverse: true,
         percent: percent,
       ),
     );

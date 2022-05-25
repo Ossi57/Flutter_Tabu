@@ -4,7 +4,6 @@ import 'package:flutter_rounded_progress_bar/flutter_rounded_progress_bar.dart';
 import 'package:flutter_rounded_progress_bar/rounded_progress_bar_style.dart';
 
 class Home extends StatefulWidget {
-  const Home({Key? key}) : super(key: key);
 
   @override
 	_Home createState() => _Home();

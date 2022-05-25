@@ -19,7 +19,7 @@ class _Home extends State<Home>{
   
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return Scaffold(
       body: RoundedProgressBar(
         style: RoundedProgressBarStyle(borderWidth: 0, widthShadow: 0),
         margin: EdgeInsets.symmetric(vertical: 16),
